@@ -6,6 +6,16 @@ Aulix Backup2DVD utility does VERY VERY SUPER RELIABLE backups to optical disks 
 Recent version at:
 http://aulix.com/backup2dvd
 
+Source code:
+http://pastebin.com/UNc92zrd
+
+Download binary:
+http://aulix.com/backup2dvd/aulix5.utils.backup2dvd.exe
+
+Read help:
+http://aulix.com/backup2dvd
+
+
 Aulix Backup2DVD utilizes following software:
 
      7zip (default)
